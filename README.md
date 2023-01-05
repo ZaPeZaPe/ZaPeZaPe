@@ -1,4 +1,13 @@
-### Hi there 👋
+### What's Up 👋
+
+<div align="center">
+<a href="https://github.com/ZaPeZaPe">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ZaPeZaPe&show_icons=true&theme=tokyonight"> 
+</div>
+<div align="center">
+<a href="https://github.com/ZaPeZaPe">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaPeZaPe&layout=compact&theme=tokyonight">
+</div>
 
 <!--
 **ZaPeZaPe/ZaPeZaPe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
