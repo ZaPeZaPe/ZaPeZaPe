@@ -2,11 +2,11 @@
 
 <div align="center">
 <a href="https://github.com/ZaPeZaPe">
- <img width="65%" src="https://github-readme-stats.vercel.app/api?username=ZaPeZaPe&show_icons=true&theme=tokyonight"> 
+ <img width="75%" src="https://github-readme-stats.vercel.app/api?username=ZaPeZaPe&show_icons=true&theme=transparent"> 
 </div>
 <div align="center">
 <a href="https://github.com/ZaPeZaPe">
- <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaPeZaPe&layout=compact&theme=tokyonight">
+ <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaPeZaPe&layout=compact&theme=transparent">
 </div>
 
 <!--
