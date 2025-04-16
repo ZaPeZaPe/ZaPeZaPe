@@ -49,4 +49,4 @@ Tools & Others:   Git, Docker, Agile/Scrum, TOTVS Integration
 
 ---
 
-> “Automation is to your time what compounding is to your money.” – James Clear
+> “Automation is to your time what compounding is to your money.” – Rory Vaden
